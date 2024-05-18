@@ -10,5 +10,3 @@ docker run -d -p 8080:80 charmr:v1
 Access the site
 
 http://127.0.0.1:8080/
-
-test
